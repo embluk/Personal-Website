@@ -20,12 +20,6 @@ module.exports = {
         src: 'img/favicon.ico',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
-        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://twitter.com/luke_embrey',
@@ -53,14 +47,10 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
+        docs: false,
         blog: {
           showReadingTime: true,
+          routeBasePath: '/blog',
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/blog/',
