@@ -28,6 +28,11 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
+          href: 'https://twitter.com/luke_embrey',
+          label: 'Twitter',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/embluk',
           label: 'GitHub',
           position: 'right',
