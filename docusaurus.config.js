@@ -20,7 +20,11 @@ module.exports = {
         src: 'img/favicon.ico',
       },
       items: [
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          to: 'blog',
+          label: 'Blog',
+          position: 'left'
+        },
         {
           href: 'https://twitter.com/luke_embrey',
           label: 'Twitter',
@@ -49,8 +53,9 @@ module.exports = {
       {
         docs: false,
         blog: {
+          path: 'blog',
           showReadingTime: true,
-          routeBasePath: '/blog',
+          routeBasePath: '/blog'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
