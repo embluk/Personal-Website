@@ -13,6 +13,11 @@ module.exports = {
   organizationName: 'facebook',
   projectName: 'docusaurus',
   themeConfig: {
+    announcementBar: {
+      id: 'announcementBar-1', // Increment on change
+      content:
+        'Automatic database, file and server backups and management: <a target="_blank" rel="noopener" href="https://bakup.io">Bakup.io</a>',
+    },
     navbar: {
       title: 'Luke Embrey',
       logo: {
