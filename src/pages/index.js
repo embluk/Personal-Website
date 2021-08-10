@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`About me`}
-      description="Description will go into a meta tag in <head />">
+      description="My personal blog about tech, programming and anything I'm interested in.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
