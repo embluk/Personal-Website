@@ -1,0 +1,107 @@
+#aboutMeContainer
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding: 20px;
+
+  background-color: #2880e4;
+  height: 100%;
+
+  color:white;
+}
+
+#aboutMe
+{
+  display: flex;
+
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 200px;
+
+  min-height: 300px;
+}
+
+#profileImage > img
+{
+  height: auto;
+  width: 250px;
+  border-radius: 20px;
+
+  box-shadow: 10px 10px 27px -20px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 27px -20px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 27px -20px rgba(0,0,0,0.75);
+}
+
+#links
+{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+#links a:not(:last-of-type)
+{
+  margin-right: 8px;
+}
+
+#links img
+{
+  height: auto;
+  width: 32px;
+}
+
+#bio
+{
+  display: flex;
+  flex-direction: column;
+
+  padding-top: 10px;
+  margin-left: 50px;
+
+  width: 450px;
+
+  word-wrap: break-word;
+}
+
+#aboutMeTitle
+{
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.aboutMeSubTitle
+{
+  font-weight: bold;
+  font-size: 20px;
+  color: #155197;
+  margin-bottom: 0;
+}
+
+#bio p
+{
+  margin-top: 0;
+}
+
+#bio a:link
+{
+  color: white;
+  text-decoration: underline;
+}
+
+#bio a:visited
+{
+  color: white;
+}
+
+#bio a:hover
+{
+  color: rgb(202, 202, 202);
+}
+
+#bio a:active
+{
+  color: white;
+}

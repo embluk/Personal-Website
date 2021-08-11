@@ -26,7 +26,12 @@ module.exports = {
       },
       items: [
         {
-          to: 'blog',
+          to: '/',
+          label: 'About me',
+          position: 'left'
+        },
+        {
+          to: '/blog',
           label: 'Blog',
           position: 'left'
         },

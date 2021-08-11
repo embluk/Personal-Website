@@ -5,6 +5,19 @@
  * work well for content-centric websites.
  */
 
+.main-wrapper
+{
+  display: flex;
+}
+
+main
+{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+}
+
 /* You can override the default Infima variables here. */
 :root
 {
