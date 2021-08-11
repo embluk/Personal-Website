@@ -105,3 +105,40 @@
 {
   color: white;
 }
+
+@media screen and (max-width: 900px)
+{
+  #aboutMe
+  {
+    flex-direction: column;
+    margin-right: 0;
+  }
+
+  #profileImage
+  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #links
+  {
+    margin-top: 20px;
+  }
+
+  #bio
+  {
+    margin-left: 0;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 500px)
+{
+  #profileImage > img
+  {
+    height: auto;
+    width: 60%;
+  }
+}
