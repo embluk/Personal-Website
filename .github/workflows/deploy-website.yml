@@ -24,6 +24,8 @@ jobs:
         run: |
           npm install 
           npm run build
+      - name: Transfer CNAME file into build directory
+        run: cp CNAME build/
       - name: Deploy website to GitHub Pages branch
         if: success()
         uses: crazy-max/ghaction-github-pages@v2
