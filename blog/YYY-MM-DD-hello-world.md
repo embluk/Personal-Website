@@ -1,5 +1,6 @@
 ---
 title: Hello World!
+slug: hello-world
 author: Luke Embrey
 author_title: Full stack developer, Computer Science Graduate
 author_url: https://twitter.com/luke_embrey
