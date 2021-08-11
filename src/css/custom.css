@@ -28,3 +28,25 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.hr
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.hr span
+{
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background-color: #2880e4;
+}
+
+.hr span:not(:last-of-type)
+{
+  margin-right: 25px;
+}

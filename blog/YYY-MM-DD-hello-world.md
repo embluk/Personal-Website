@@ -14,7 +14,9 @@ draft: false
 
 Hello World, summary.
 
-<hr/>
+<div className="hr">
+    <span></span><span></span><span></span>
+</div>
 
 <!--truncate-->
 
