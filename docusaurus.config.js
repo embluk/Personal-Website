@@ -28,7 +28,8 @@ module.exports = {
         {
           to: '/',
           label: 'About me',
-          position: 'left'
+          position: 'left',
+          activeBaseRegex: '^/$',
         },
         {
           to: '/blog',
