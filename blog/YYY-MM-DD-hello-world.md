@@ -14,11 +14,11 @@ draft: false
 
 Hello World, summary.
 
+<!--truncate-->
+
 <div className="hr">
     <span></span><span></span><span></span>
 </div>
-
-<!--truncate-->
 
 This is the main post.
 
