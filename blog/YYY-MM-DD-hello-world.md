@@ -24,3 +24,12 @@ Hello World, summary.
 This is the main post.
 
 More content here.
+
+<div className="blogCtaEnd">
+    <div className="blogCtaEndSmallScreenIcon"><p>📥</p></div>
+    <p>Want to keep in touch with new content?</p>
+    <div className="blogCtaEndCard">
+        <p>📥</p>
+        <p>If you like my content and want to keep in touch with when I post something new or announce new products or updates, the best way is to follow me on <a target="_blank" rel="noopener" href="https://twitter.com/luke_embrey">Twitter</a>. You can also find me on <a target="_blank" rel="noopener" href="https://github.com/embluk">GitHub</a>.</p>
+    </div>
+</div>
