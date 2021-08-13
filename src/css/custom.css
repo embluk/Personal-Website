@@ -90,17 +90,19 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 .blogCtaEndSmallScreenIcon
 {
   display: none;
-  font-size: 54px;
-  text-align: center;
+  height: 120px;
+  width: auto;
+  margin-bottom: 20px;
 }
 
-.blogCtaEndCard p:nth-child(1)
+.blogCtaEndCard img
 {
-  font-size: 54px;
+  height: 100px;
+  width: auto;
   margin-right: 15px;
 }
 
-.blogCtaEndCard p:nth-child(2)
+.blogCtaEndCard p
 {
   font-size: 18px;
 }
@@ -134,13 +136,12 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
     font-size: 18px;
   }
 
-  .blogCtaEndCard p:nth-child(1)
+  .blogCtaEndCard img
   {
-    font-size: 42px;
-    margin-right: 15px;
+    height: 70px;
   }
 
-  .blogCtaEndCard p:nth-child(2)
+  .blogCtaEndCard p
   {
     font-size: 15px;
   }
@@ -148,14 +149,15 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 @media screen and (max-width: 500px)
 {
-  .blogCtaEndCard p:nth-child(1)
+  .blogCtaEndCard img
   {
     display: none;
   }
 
   .blogCtaEndSmallScreenIcon
   {
-    display: block;
+    display: flex;
+    justify-content: center;
   }
 
   .blogCtaEndCard
