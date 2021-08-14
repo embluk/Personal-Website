@@ -64,6 +64,11 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   margin-right: 25px;
 }
 
+.markdown img
+{
+  box-shadow: 7px 7px 19px -11px #707C8C;
+}
+
 .blogCtaEnd
 {
   background-color: #2880e4;
