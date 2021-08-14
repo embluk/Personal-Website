@@ -58,6 +58,11 @@ module.exports = {
       darkTheme: darkCodeTheme,
       additionalLanguages: ['php'],
     },
+    metadatas: [
+      {
+        name: 'twitter:card', content: 'summary_large_image'
+      },
+    ],
   },
   presets: [
     [
