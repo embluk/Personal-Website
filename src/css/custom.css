@@ -77,6 +77,32 @@ blockquote
   box-shadow: 7px 7px 19px -11px #707C8C;
 }
 
+.centreLinkRefs
+{
+  text-align: center;
+  font-style: italic;
+}
+
+.centreLinkRefs a:link
+{
+  color: var(--ifm-color-primary);
+}
+
+.centreLinkRefs a:visited
+{
+  color: var(--ifm-color-primary);
+}
+
+.centreLinkRefs a:hover
+{
+  color: rgb(202, 202, 202);
+}
+
+.centreLinkRefs a:active
+{
+  color: var(--ifm-color-primary);
+}
+
 .blogCtaEnd
 {
   background-color: #2880e4;
