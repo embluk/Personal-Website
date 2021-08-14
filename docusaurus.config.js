@@ -60,7 +60,13 @@ module.exports = {
     },
     metadatas: [
       {
-        name: 'twitter:card', content: 'summary_large_image'
+        name: 'twitter:card', content: 'summary_large_image',
+      },
+      {
+        name: 'twitter:site', content: '@luke_embrey',
+      },
+      {
+        name: 'twitter:creator', content: '@luke_embrey',
       },
     ],
   },
