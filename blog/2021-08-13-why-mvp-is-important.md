@@ -27,7 +27,7 @@ If you think you have a good business idea and you have begun the implementation
 
 For the best possible chance of a successful start-up launch or even more business growth you need to consider what kind of MVP you need, I went through this process with my business, [Bakup.io](https://Bakup.io). Different services and products will require a different stage of MVP, this can be related to the market itself, the type of users and the requirements of what makes a service or product good, or at least good enough to launch with.
 
-## What is a MVP?
+## What is an MVP?
 
 Each start-up with have different needs, these needs will directly correspond to its market, the users and the purpose. Because each start-up or business is different, their MVP will be too. In basic terms an MVP is just a level at which your service or product is usable for the first time, it will have the most pared down version you can possibly build to get that launchable service or product. An MVP is the most basic version of your start-up, kind of like its first stage. It won’t necessarily have all the planned features or advanced nice-to-haves but definitely a solid foundation to which to build on long-term.
 
