@@ -502,7 +502,7 @@ You may find the following tools useful, I came across these during my research:
 - [Ahrefs](https://ahrefs.com/)
 - [Google Trends](https://trends.google.com/trends/)
 
-In my opinion I wouldn't focus on SEO tools too much, get the basics sorted out and then put more effort into valuable shareable content.
+In my opinion I wouldn't focus on SEO tools too much, get the basics sorted out and then put more effort into valuable, shareable content.
 
 ## Other SEO considerations
 
