@@ -523,6 +523,7 @@ However, this post has to end somewhere, the scope of this post is already quite
 - External links are a sign of a healthy, genuine website for SEO
 - Long-from content like this blog post usually perform better, people can take what they need from it and come back later, users tend to prefer complete content but it depends on the topic
 - Make sure your page is in line with the search intent
+- Focus on high authority websites for backlinks
 
 <div className="blogCtaEnd">
     <div className="blogCtaEndSmallScreenIcon"><img src="/img/inbox.png"/></div>
