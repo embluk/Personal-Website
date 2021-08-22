@@ -71,7 +71,7 @@ During the MVP stage of [Bakup.io](https://Bakup.io) we actually changed our pri
 
 ## Product Development Life Cycle
 
-![MVP Diagram](/img/blogImages/mvp-life-cycle.png)
+![MVP Lifecycle](/img/blogImages/mvp-life-cycle.png)
 
 Your MVP should be about acting on certainties rather than assumptions, the MVP is vital to verify your product concept. To add some more detail to the product development life cycle, this stage should only focus on the foundation first:
 
