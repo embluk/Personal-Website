@@ -524,6 +524,8 @@ However, this post has to end somewhere, the scope of this post is already quite
 - Long-from content like this blog post usually perform better, people can take what they need from it and come back later, users tend to prefer complete content but it depends on the topic
 - Make sure your page is in line with the search intent
 - Focus on high authority websites for backlinks
+- Find competing pages and beat them on page authority, increase domain referrals, build more internal and external links
+- It's not always being about becoming #1 on the results page, being on the first page should be the main goal
 
 <div className="blogCtaEnd">
     <div className="blogCtaEndSmallScreenIcon"><img src="/img/inbox.png"/></div>
