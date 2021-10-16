@@ -103,6 +103,10 @@ Either the ransomware encryption is permanent because the attacker doesn't inten
 
 ![Hacker in dark room](/img/blogImages/hacker-in-room.jpg)
 
+<div className="centreLinkRefs">
+    <a target="_blank" rel="noopener" href="https://unsplash.com/photos/dYEuFB8KQJk">Unsplash: Clint Patterson</a>
+</div>
+
 Furthermore, ransomware payments have increased and companies are having to fork out larger ransoms than ever. In Q2 2021 the average ransom payment was around $136,576 and you shouldn't really be negotiating with such people - but some companies have no choice. You may be expecting me to say it again... But a proper backup system would eliminate/reduce the effects of ransomware.
 
 Even if companies have to resort to paying the ransom, sometimes the decryption isn't always 100% successful. Not all ransoms even give you a decryption key after payment as well. There is simply no guarantee. [Coveware](https://www.coveware.com/blog/2021/7/23/q2-ransom-payment-amounts-decline-as-ransomware-becomes-a-national-security-priority) found that 97% of ransom decryption was successful in recovering files, while that sounds very high, if your company has millions of files that 3% starts to add up and become a problem, something could be solved by using a automated backup system.
