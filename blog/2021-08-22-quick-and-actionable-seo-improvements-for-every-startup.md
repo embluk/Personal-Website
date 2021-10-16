@@ -2,7 +2,7 @@
 title: 10 actionable SEO improvements for every startup
 slug: actionable-seo-improvements-for-every-startup
 author: Luke Embrey
-author_title: Full stack developer, Computer Science Graduate
+author_title: CEO at Superbition, Full stack developer, Computer Science Graduate
 author_url: https://twitter.com/luke_embrey
 author_image_url: https://avatars.githubusercontent.com/u/23347020?v=4
 image: /img/postHeros/seo-improvements-for-every-startup.png
