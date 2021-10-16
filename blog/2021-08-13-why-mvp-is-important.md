@@ -2,7 +2,7 @@
 title: Why an MVP is so important for startups and new businesses
 slug: why-an-mvp-is-so-important-for-startups-and-businesses
 author: Luke Embrey
-author_title: Full stack developer, Computer Science Graduate
+author_title: CEO at Superbition, Full stack developer, Computer Science Graduate
 author_url: https://twitter.com/luke_embrey
 author_image_url: https://avatars.githubusercontent.com/u/23347020?v=4
 image: /img/postHeros/mvp-hero-img.png
