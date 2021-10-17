@@ -7,7 +7,7 @@ author_url: https://twitter.com/luke_embrey
 author_image_url: https://avatars.githubusercontent.com/u/23347020?v=4
 image: /img/postHeros/smart-companies-care-about-backups.png
 hide_table_of_contents: false
-description: ""
+description: "Data backups are important and you should care about them early on before it becomes a problem, it's inevitable that you will experience data loss at some point but it doesn't have to always be that way."
 keywords: [data, backups, data breach, data management, data threats, cybersecurity]
 tags: [data, backups, data breach, data management, data threats, cybersecurity]
 draft: false
