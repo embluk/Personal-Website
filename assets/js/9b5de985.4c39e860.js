@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklukeembrey_com=self.webpackChunklukeembrey_com||[]).push([[905],{4604:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"data-management","name":"data management","count":1,"permalink":"/blog/tags/data-management"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklukeembrey_com=self.webpackChunklukeembrey_com||[]).push([[432],{1662:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"cybersecurity","name":"cybersecurity","count":1,"permalink":"/blog/tags/cybersecurity"}')}}]);

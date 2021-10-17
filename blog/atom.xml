@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lukeembrey.com/blog</id>
+    <title>Luke Embrey Blog</title>
+    <updated>2021-10-16T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lukeembrey.com/blog"/>
+    <subtitle>Luke Embrey Blog</subtitle>
+    <icon>https://lukeembrey.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Smart companies care about data backups early on in their business]]></title>
+        <id>smart-companies-care-about-data-backups-early-on</id>
+        <link href="https://lukeembrey.com/blog/smart-companies-care-about-data-backups-early-on"/>
+        <updated>2021-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data backups are important and you should care about them early on before it becomes a problem, it's inevitable that you will experience data loss at some point but it doesn't have to always be that way.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 actionable SEO improvements for every startup]]></title>
+        <id>actionable-seo-improvements-for-every-startup</id>
+        <link href="https://lukeembrey.com/blog/actionable-seo-improvements-for-every-startup"/>
+        <updated>2021-08-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Quick and actionable SEO improvements for every startup. SEO can be easy to improve when to understand the basics. What I learnt with my business and search ranking.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why an MVP is so important for startups and new businesses]]></title>
+        <id>why-an-mvp-is-so-important-for-startups-and-businesses</id>
+        <link href="https://lukeembrey.com/blog/why-an-mvp-is-so-important-for-startups-and-businesses"/>
+        <updated>2021-08-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why an MVP (Minimal Viable Product) is so important during the early stages of a startup or business]]></summary>
+    </entry>
+</feed>

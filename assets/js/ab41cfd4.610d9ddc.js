@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklukeembrey_com=self.webpackChunklukeembrey_com||[]).push([[506],{2359:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"data-breach","name":"data breach","count":1,"permalink":"/blog/tags/data-breach"}')}}]);

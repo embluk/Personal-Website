@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Luke Embrey Blog</title>
+        <link>https://lukeembrey.com/blog</link>
+        <description>Luke Embrey Blog</description>
+        <lastBuildDate>Sat, 16 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Smart companies care about data backups early on in their business]]></title>
+            <link>https://lukeembrey.com/blog/smart-companies-care-about-data-backups-early-on</link>
+            <guid>smart-companies-care-about-data-backups-early-on</guid>
+            <pubDate>Sat, 16 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Data backups are important and you should care about them early on before it becomes a problem, it's inevitable that you will experience data loss at some point but it doesn't have to always be that way.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[10 actionable SEO improvements for every startup]]></title>
+            <link>https://lukeembrey.com/blog/actionable-seo-improvements-for-every-startup</link>
+            <guid>actionable-seo-improvements-for-every-startup</guid>
+            <pubDate>Sun, 22 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Quick and actionable SEO improvements for every startup. SEO can be easy to improve when to understand the basics. What I learnt with my business and search ranking.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why an MVP is so important for startups and new businesses]]></title>
+            <link>https://lukeembrey.com/blog/why-an-mvp-is-so-important-for-startups-and-businesses</link>
+            <guid>why-an-mvp-is-so-important-for-startups-and-businesses</guid>
+            <pubDate>Fri, 13 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Why an MVP (Minimal Viable Product) is so important during the early stages of a startup or business]]></description>
+        </item>
+    </channel>
+</rss>

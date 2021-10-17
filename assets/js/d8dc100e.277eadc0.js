@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklukeembrey_com=self.webpackChunklukeembrey_com||[]).push([[101],{5375:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"growth","name":"growth","count":2,"permalink":"/blog/tags/growth"}')}}]);

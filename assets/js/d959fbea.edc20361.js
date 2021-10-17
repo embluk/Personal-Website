@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklukeembrey_com=self.webpackChunklukeembrey_com||[]).push([[684],{1458:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"search-ranking","name":"search ranking","count":1,"permalink":"/blog/tags/search-ranking"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklukeembrey_com=self.webpackChunklukeembrey_com||[]).push([[518],{147:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"mvp","name":"mvp","count":1,"permalink":"/blog/tags/mvp"}')}}]);

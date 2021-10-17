@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklukeembrey_com=self.webpackChunklukeembrey_com||[]).push([[448],{6927:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"backups","name":"backups","count":1,"permalink":"/blog/tags/backups"}')}}]);
