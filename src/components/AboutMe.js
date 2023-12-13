@@ -39,7 +39,7 @@ export default function AboutMe() {
 
           <p className="aboutMeSubTitle">Company & Work</p>
 
-          <p>My latest startup is <a target="_blank" rel="noopener" href="https://Bakup.io">Bakup.io</a> - An automatic SaaS that can backup databases, files and servers. A complete solution for data backup and management for businesses. Don't every worry about secure backups again, keep your customers safe with triple replication, geo redundancy etc.</p>
+          <p>My latest startup is <a target="_blank" rel="noopener" href="https://Bakup.io">Bakup.io</a> - An automatic SaaS that can backup databases, files and servers. A complete solution for data backup and management for businesses. Don't ever worry about secure backups again, keep your customers safe with triple replication, geo redundancy etc.</p>
 
           <p className="aboutMeSubTitle">Keeping Up-to-date</p>
 
